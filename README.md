@@ -7,6 +7,7 @@ Research on US electric and gas utilities that changed hands between domestic an
 | Folder | What it is |
 |---|---|
 | `original_49_deals/` | The 49 deals from the starter brief, checked against primary sources. |
+| `new_deals/` | Deals found after the brief (nationwide sample, Mountaineer Gas, domestic M&A control group) and a combined table of all deals. Not yet discussed by the group. |
 
 ## `original_49_deals/`
 
