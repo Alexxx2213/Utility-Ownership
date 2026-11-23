@@ -1,0 +1,50 @@
+deal_id,year,utility,states,seller,buyer,buyer_country,direction,stake_pct,status,new_england,pjm,eia_utility_ids,announce_date,close_date,docket_numbers,source_url,verified,notes
+1,1986,Vermont Gas Systems,VT,Domestic owners,Gaz Metro (now Energir),Canada,D->F,100,completed,Y,N,,,,,,,year from memory - verify
+2,1999,PacifiCorp,"OR, UT, WY, WA, ID, CA",Public company,ScottishPower,UK,D->F,100,completed,N,N,,,,,,,
+3,2000,"NEES: Mass Electric, Narragansett Electric, Granite State, New England Power","MA, RI, NH",Public company,National Grid,UK,D->F,100,completed,Y,N,,,,,,,
+4,2000,"Eastern Utilities Assoc.: Eastern Edison, Blackstone Valley, Newport Electric","MA, RI",Public company,National Grid,UK,D->F,100,completed,Y,N,,,,,,,
+5,2000,Aquarion Water,CT,Public company,Kelda Group,UK,D->F,100,completed,Y,N,,,,,,,water utility; year from memory - verify
+6,2000,"LG&E Energy: LG&E, Kentucky Utilities",KY,Public company,PowerGen,UK,D->F,100,completed,N,N,,,,,,,
+7,2001,Bangor Hydro,ME,Public company,Emera,Canada,D->F,100,completed,Y,N,,,,,,,
+8,2002,Niagara Mohawk,NY,Public company,National Grid,UK,D->F,100,completed,N,N,,,,,,,
+9,2002,LG&E / KU,KY,PowerGen,E.ON,Germany,F->F,100,completed,N,N,,,,,,,came with E.ON's purchase of PowerGen
+10,2003,American Water,multi-state,Public company,RWE,Germany,D->F,100,completed,N,N,,,,,,,water utility
+11,2006,PacifiCorp,"OR, UT, WY, WA, ID, CA",ScottishPower,MidAmerican / Berkshire Hathaway,US,F->D,100,completed,N,N,,,,,,,
+12,2006,Aquarion Water,CT,Kelda,Macquarie,Australia,F->F,100,completed,Y,N,,,,,,,water utility; year from memory - verify
+13,2007,Duquesne Light,PA,Public company,Macquarie-led consortium,Australia,D->F,100,completed,N,Y,,,,,,,
+14,2007,"KeySpan: Brooklyn Union, KeySpan LI, Boston Gas, Colonial Gas","NY, MA",Public company,National Grid,UK,D->F,100,completed,Y,N,,,,,,,gas
+15,2007,Green Mountain Power,VT,Public company,Gaz Metro,Canada,D->F,100,completed,Y,N,,,,,,,
+16,2008,"Energy East: CMP, NYSEG, RG&E, CNG, Southern CT Gas, Berkshire Gas","ME, NY, CT, MA",Public company,Iberdrola,Spain,D->F,100,completed,Y,N,,,,,,,
+17,2008,American Water,multi-state,RWE,IPO (public company),US,F->D,100,completed,N,N,,,,,,,IPO 2008; RWE fully exited 2009
+18,2009,Puget Sound Energy,WA,Public company,Macquarie-led consortium with Canadian and Dutch pensions,Australia/Canada,D->F,100,completed,N,N,,,,,,,
+19,2010,LG&E / KU,KY,E.ON,PPL,US,F->D,100,completed,N,N,,,,,,,
+20,2010,"CNG, Southern CT Gas, Berkshire Gas","CT, MA",Iberdrola,UIL Holdings,US,F->D,100,completed,Y,N,,,,,,,gas
+21,2010,Maine Public Service,ME,Public company,Emera,Canada,D->F,100,completed,Y,N,,,,,,,
+22,2010,Duquesne Light,PA,DUET Group,GIC,Singapore,F->F,29,completed,N,Y,,,,,,,minority stake
+23,2012,Central Vermont Public Service,VT,Public company,Gaz Metro / GMP,Canada,D->F,100,completed,Y,N,,,,,,,
+24,2012,Granite State Electric + EnergyNorth Gas,NH,National Grid,Liberty / Algonquin,Canada,F->F,100,completed,Y,N,,,,,,,
+25,2012,SEMCO Energy Gas,"MI, AK",Public company,AltaGas,Canada,D->F,100,completed,N,N,,,,,,,gas
+26,2013,"New England Gas, Fall River",MA,Southern Union,Liberty / Algonquin,Canada,D->F,100,completed,Y,N,,,,,,,gas; seller and year from memory - verify
+27,2013,Central Hudson,NY,Public company,Fortis,Canada,D->F,100,completed,N,N,,,,,,,
+28,2014,UNS Energy / Tucson Electric,AZ,Public company,Fortis,Canada,D->F,100,completed,N,N,,,,,,,
+29,2015,"UIL: United Illuminating, CNG, SCG, Berkshire Gas","CT, MA",Public company,Iberdrola / Avangrid,Spain,D->F,100,completed,Y,N,,,,,,,
+30,2016,Cleco,LA,Public company,"Macquarie, bcIMC, John Hancock",Australia/Canada,D->F,100,completed,N,N,,,,,,,
+31,2016,"TECO Energy: Tampa Electric, Peoples Gas, New Mexico Gas","FL, NM",Public company,Emera,Canada,D->F,100,completed,N,N,,,,,,,
+32,2016,ITC Holdings (transmission),"MI, IA, MN, others",Public company,Fortis (GIC 19.9%),Canada,D->F,100,completed,N,N,,,,,,,
+33,2017,Empire District Electric,"MO, KS, OK, AR",Public company,Liberty / Algonquin,Canada,D->F,100,completed,N,N,,,,,,,
+34,2017,Aquarion Water,"CT, MA, NH",Macquarie,Eversource,US,F->D,100,completed,Y,N,,,,,,,water utility
+35,2018,WGL / Washington Gas,"DC, MD, VA",Public company,AltaGas,Canada,D->F,100,completed,N,Y,,,,,,,gas; PJM states
+36,2020,Emera Maine (renamed Versant Power),ME,Emera,ENMAX (City of Calgary),Canada,F->F,100,completed,Y,N,,,,,,,
+37,2022,Narragansett Electric (now Rhode Island Energy),RI,National Grid,PPL,US,F->D,100,completed,Y,N,,,,,,,
+38,2022,FirstEnergy Transmission (ATSI MAIT TrAILCo),"OH, PA, NJ, WV, MD, VA",FirstEnergy,Brookfield,Canada,D->F (minority),19.9,completed,N,Y,,,2022-05-31,,,,minority stake
+39,2024,FirstEnergy Transmission (ATSI MAIT TrAILCo),"OH, PA, NJ, WV, MD, VA",FirstEnergy,Brookfield,Canada,D->F (minority),30,completed,N,Y,,,2024-03-25,,https://www.firstenergycorp.com/newsroom/news_articles/fe-closes-on-fe-transmission-interest-sale.html,,Brookfield now 49.9%
+40,2024,Avangrid minority buyout,"CT, ME, NY, MA",Public minority (~18.5%),Iberdrola,Spain,F->F,100,completed,Y,N,,,,,,,consolidation from ~81.5% to 100%
+41,2024,"Dominion gas utilities: East Ohio Gas, Questar Gas, PSNC","OH, UT, WY, ID, NC",Dominion,Enbridge,Canada,D->F,100,completed,N,Y,,,,,,,gas; East Ohio Gas is in PJM territory
+42,2025,AEP Ohio + Indiana Michigan transmission companies,"OH, IN, MI",AEP,KKR + PSP Investments,US/Canada,D->F (minority),19.9,completed,N,Y,,,2025-06-05,,https://www.sec.gov/Archives/edgar/data/4904/000000490425000069/a06-2025olympuspressreleas.htm,,minority stake
+43,2025,ALLETE / Minnesota Power,"MN, WI",Public company,GIP/BlackRock 60% + CPP Investments 40%,US/Canada,D->F (partial),40,completed,N,N,,,2025-12-15,,https://secure.businesswire.com/news/home/20251215651998/en/,,
+44,2026,New Mexico Gas,NM,Emera,Bernhard Capital Partners,US,F->D,100,approved,N,N,,,,24-00266-UT (NM PRC),https://prod2.nmgco.com/userfiles/files/NMGC_BCP%20Acquisition_%20FINAL%20ORDER_%2024-00266-UT.pdf,,approved July 2026; closing not confirmed
+45,2026,"AES (AES Indiana, AES Ohio)","IN, OH",Public company,GIP/BlackRock + EQT + CalPERS + Qatar Investment Authority,US/Sweden/Qatar,D->F (partial),100,pending,N,Y,,2026-03-02,,,https://eqtgroup.com/news/consortium-led-by-global-infrastructure-partners-and-eqt-agrees-to-acquire-aes-2026-03-02,,AES Ohio in PJM (DAY zone)
+46,2018,Avista,"WA, ID",Public company,Hydro One,Canada,D->F,100,blocked,N,N,,,,,,,rejected by Washington UTC
+47,2021,PNM,NM,Public company,Avangrid / Iberdrola,Spain,D->F,100,blocked,N,N,,,,,,,rejected by NM PRC 2021; terminated 2023
+48,2023,Kentucky Power,KY,AEP,Algonquin,Canada,D->F,100,blocked,N,Y,,,,,,,FERC denied late 2022; terminated 2023
+49,2023,CMP + Versant Power (Pine Tree Power),ME,Iberdrola / ENMAX,Consumer-owned utility,US,F->D,100,blocked,Y,N,,,,,,,referendum failed about 70-30
